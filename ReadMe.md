@@ -8,7 +8,7 @@ Just include this on any page:
 
      <script type="text/javascript" src="hook.js"></script>
 
-Now you have access to the "hook" object. The hook object is special object which
+Now you have access to the "hook" object. The hook object is a special object which
 gives you the ability to seamlessly call server events from the browser and browser events from the server.
 
 
